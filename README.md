@@ -20,11 +20,11 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 -	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/Healthcare%20Project%20based%20on%20PowerBI%20(1).pptx"  >View Dashboard</a>
 
 ## Process
--
--
--
--
-
+-	Verify data for any missing values ,improper data and extra space to sort out the same.
+-	Make sure data is consistent and clean with respect to data type, format and value used.
+-	Create plot in Power BI on the bases of question asked.
+-	Merge all plot into one dashboard and apply slicer to make dynamic.
+  
 ## Dashboard
 <img width="1280" height="720" alt="Healthcare Project based on PowerBI (1) - Copy" src="https://github.com/user-attachments/assets/69737308-922c-41b0-b342-d23948f67be2" />
 <img width="1280" height="720" alt="Healthcare Project based on PowerBI (2) - Copy" src="https://github.com/user-attachments/assets/1d60bf7f-1979-4c4a-ba3c-a2037ad4a8b6" />

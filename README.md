@@ -5,7 +5,7 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 ## Dataset used (Raw data)
 -	<a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/healthcare_dataset%20by%20PowerBI.xlsx"> Healthcare-Raw Data</a>
 
-## Dataset (Cleaned data)
+## Dataset (Cleaned data in MS Excel)
 -	<a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/healthcare_dataset%20by%20PowerBI12.xlsx"> Healthcare-Clean Data</a>
 
 

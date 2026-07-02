@@ -9,13 +9,14 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 -	<a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/healthcare_dataset%20by%20PowerBI12.xlsx"> Healthcare-Clean Data</a>
 
 ## Questions (KPIs)
--
-
-
-
-
-
-
+-	Total number of patient in each medical condition.
+-	Total number of insurance provider in each medical condition.
+-	Total number of patient in each medical condition on the bases of gender.
+-	Based on blood group calculate total number of patient.
+-	How many billing amount in each year.
+-	Number of patient in each year.
+-	Number of patient in each type of Admit.
+-	Calculate patient in each test result.
 -	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/Healthcare%20Project%20based%20on%20PowerBI%20(1).pptx"  >View Dashboard</a>
 
 ## Process

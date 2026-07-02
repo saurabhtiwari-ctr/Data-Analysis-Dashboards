@@ -31,9 +31,12 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 <img width="1280" height="720" alt="Healthcare Project based on PowerBI (3) - Copy" src="https://github.com/user-attachments/assets/207f595a-6323-4783-b2c3-2f079909b0de" />
 
 ## Project Insight
-
-
-
+-	2020 are the maximum billing amount in the year.
+-	In each medical condition have  5  insurance provider.
+-	11.04k patient in Lipitor medication are maximum.
+-	Abnormal are the maximum test result about 18.4k.
+-	Elective is maximum admit type of patient are 18.5k.
+-	In 2020 patient are maximum about 11.2k.
 ## Final Conclusion
 
 

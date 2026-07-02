@@ -29,4 +29,10 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 <img width="1280" height="720" alt="Healthcare Project based on PowerBI (2) - Copy" src="https://github.com/user-attachments/assets/1d60bf7f-1979-4c4a-ba3c-a2037ad4a8b6" />
 <img width="1280" height="720" alt="Healthcare Project based on PowerBI (3) - Copy" src="https://github.com/user-attachments/assets/207f595a-6323-4783-b2c3-2f079909b0de" />
 
+## Project Insight
+
+
+
+## Final Conclusion
+
 

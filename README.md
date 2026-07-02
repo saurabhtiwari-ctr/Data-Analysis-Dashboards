@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboards
-I developed a Healthcare project in Excel and Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including Business problem understanding, Data Loading, Data Exploration, Data Cleaning and Data Visualization.
+# Healthcare-Data-Analysis (Interactive Dashboard creation using MS Excel and Power BI)
+## Project Objective
+This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Healthcare department want detail information of patient demographics, medical conditions, hospital admissions, and billing trends , so that,  They can predictive healthcare analytics, hospital resource planning, insurance cost analysis, and public health insights.

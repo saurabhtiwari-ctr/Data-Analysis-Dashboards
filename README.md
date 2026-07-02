@@ -18,3 +18,15 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 
 -	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/Healthcare%20Project%20based%20on%20PowerBI%20(1).pptx"  >View Dashboard</a>
 
+## Process
+-
+-
+-
+-
+
+## Dashboard
+<img width="1280" height="720" alt="Healthcare Project based on PowerBI (1) - Copy" src="https://github.com/user-attachments/assets/69737308-922c-41b0-b342-d23948f67be2" />
+<img width="1280" height="720" alt="Healthcare Project based on PowerBI (2) - Copy" src="https://github.com/user-attachments/assets/1d60bf7f-1979-4c4a-ba3c-a2037ad4a8b6" />
+<img width="1280" height="720" alt="Healthcare Project based on PowerBI (3) - Copy" src="https://github.com/user-attachments/assets/207f595a-6323-4783-b2c3-2f079909b0de" />
+
+

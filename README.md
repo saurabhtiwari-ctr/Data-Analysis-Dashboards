@@ -17,7 +17,7 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 -	Number of patient in each year.
 -	Number of patient in each type of Admit.
 -	Calculate patient in each test result.
--	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/Healthcare%20Project%20based%20on%20PowerBI%20(1).pptx"  >View Dashboard</a>
+-	Dashboard Interaction <a href="https://github.com/saurabhtiwari-ctr/Data-Analysis-Dashboards/blob/main/Healthcare%20Project%20based%20on%20PowerBI%20(3)%20-%20Copy.pdf"  >View Dashboard</a>
 
 ## Process
 -	Verify data for any missing values ,improper data and extra space to sort out the same.

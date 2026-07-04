@@ -11,7 +11,7 @@ This healthcare dataset, covering 55,500 patient records from 2019 to 2024. Heal
 ## Questions (KPIs)
 -	Total number of patient in each medical condition.
 -	Total number of insurance provider in each medical condition.
--	Total number of patient in each medical condition on the bases of gender.
+-	Total number of patient in each medical condition on the bases of gender. 
 -	Based on blood group calculate total number of patient.
 -	How many billing amount in each year.
 -	Number of patient in each year.
